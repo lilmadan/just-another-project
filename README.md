@@ -6,7 +6,7 @@ Answer 1) In-Progress. Trying to find a better answer :-)
 
 [Answer 2](BSTDataModel.scala)
 
-[Answer 3](BSTDataModel.md)
+[Answer 3](BSTDatamodel.md)
 
 [Answer 4](BST-Traversal-Type-Analysis.md)
 
